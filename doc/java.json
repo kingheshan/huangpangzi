@@ -1,0 +1,35 @@
+{
+  "name": "Java起源",
+  "price": "499",
+  "intro": "Java是一门面向对象编程语言，不仅吸收了C++语言的各种优点，还摒弃了C++里难以理解的多继承、指针等概念，因此Java语言具有功能强大和简单易用两个特征。",
+  "content": [
+    {
+      "header": "第一章 Java简介",
+      "section": [
+        {
+          "title": "第一小节 xxxx"
+        },
+        {
+          "title": "第二小节 xxxx"
+        },
+        {
+          "title": "第三小节 xxxx"
+        }
+      ]
+    },
+    {
+        "header": "第二章 Java环境安装",
+        "section": [
+          {
+            "title": "第一小节 xxxx"
+          },
+          {
+            "title": "第二小节 xxxx"
+          },
+          {
+            "title": "第三小节 xxxx"
+          }
+        ]
+    }
+  ]
+}

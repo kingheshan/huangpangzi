@@ -1,0 +1,35 @@
+{
+  "name": "Linux起源",
+  "price": "199",
+  "intro": "Linux是一套免费使用和自由传播的类Unix操作系统，是一个基于POSIX和UNIX的多用户、多任务、支持多线程和多CPU的操作系统。它能运行主要的UNIX工具软件、应用程序和网络协议。它支持32位和64位硬件。",
+  "content": [
+    {
+      "header": "第一章 Linux简介",
+      "section": [
+        {
+          "title": "第一小节 xxxx"
+        },
+        {
+          "title": "第二小节 xxxx"
+        },
+        {
+          "title": "第三小节 xxxx"
+        }
+      ]
+    },
+    {
+        "header": "第二章 Linux环境安装",
+        "section": [
+          {
+            "title": "第一小节 xxxx"
+          },
+          {
+            "title": "第二小节 xxxx"
+          },
+          {
+            "title": "第三小节 xxxx"
+          }
+        ]
+    }
+  ]
+}

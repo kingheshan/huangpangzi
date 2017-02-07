@@ -1,0 +1,35 @@
+{
+  "name": "PHP起源",
+  "price": "399",
+  "intro": "PHP（外文名:PHP: Hypertext Preprocessor，中文名：“超文本预处理器”）是一种通用开源脚本语言。语法吸收了C语言、Java和Perl的特点，利于学习，使用广泛，主要适用于Web开发领域。",
+  "content": [
+    {
+      "header": "第一章 PHP简介",
+      "section": [
+        {
+          "title": "第一小节 xxxx"
+        },
+        {
+          "title": "第二小节 xxxx"
+        },
+        {
+          "title": "第三小节 xxxx"
+        }
+      ]
+    },
+    {
+        "header": "第二章 PHP环境安装",
+        "section": [
+          {
+            "title": "第一小节 xxxx"
+          },
+          {
+            "title": "第二小节 xxxx"
+          },
+          {
+            "title": "第三小节 xxxx"
+          }
+        ]
+    }
+  ]
+}

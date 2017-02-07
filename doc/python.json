@@ -1,0 +1,35 @@
+{
+  "name": "Python起源",
+  "price": "299",
+  "intro": "Python, 是一种面向对象的解释型计算机程序设计语言，由荷兰人Guido van Rossum于1989年发明，第一个公开发行版发行于1991年。",
+  "content": [
+    {
+      "header": "第一章 Python简介",
+      "section": [
+        {
+          "title": "第一小节 xxxx"
+        },
+        {
+          "title": "第二小节 xxxx"
+        },
+        {
+          "title": "第三小节 xxxx"
+        }
+      ]
+    },
+    {
+        "header": "第二章 Python环境安装",
+        "section": [
+          {
+            "title": "第一小节 xxxx"
+          },
+          {
+            "title": "第二小节 xxxx"
+          },
+          {
+            "title": "第三小节 xxxx"
+          }
+        ]
+    }
+  ]
+}
